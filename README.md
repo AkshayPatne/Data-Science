@@ -5,7 +5,7 @@ Python : 3
 
 Machine learning 
 Linear regression
-Lgistic Regression
+Logistic Regression
 Decesion Tree
 Random Forest
 Adaboost
